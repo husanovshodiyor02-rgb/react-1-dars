@@ -7,6 +7,7 @@ import Plans from './components/Plans'
 import Join from './components/Join'
 import Hub from './components/Hub'
 import Ready from './components/Ready'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Join/>
       <Hub/>
       <Ready/>
+      <Footer/>
     </div>
   )
 }
